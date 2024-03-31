@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm a recent graduate with a Bachelor of Science in Computer Science (System Development - Information Systems). I'm deeply passionate about coding and love diving into the intricacies of backend and fullstack development. My journey in the world of programming started with a curiosity to understand how things work behind the scenes, and it has evolved into a rewarding journey of problem-solving and building robust solutions.
+Hi there! 👋 I'm a recent graduate with a Bachelor of Science in Computer Science (System Development - Information Systems). I'm deeply passionate about coding, especially backend and fullstack development. My journey in the world of programming started with a curiosity to understand how things work behind the scenes, and it has evolved into a rewarding journey of problem-solving and building robust solutions.
 
 
 ## 🌐 Socials:
